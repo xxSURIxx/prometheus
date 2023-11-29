@@ -24,6 +24,10 @@ Login to Grafana > Go to configuration > Choose data source > Add data source > 
 
 Once given the details click "Save & Test", it should say Data Source is working like below image,
 
+Dashboard
+
 ![prom_ser_conf](https://github.com/xxSURIxx/prometheus/assets/143709408/e2721cef-d441-4be2-8637-01227b6a9735)
 
+![Screenshot from 2023-11-29 12-05-06](https://github.com/xxSURIxx/prometheus/assets/143709408/60fc382e-d5cf-4166-adee-e9a4aee74fbd)
+![Screenshot from 2023-11-29 12-05-42](https://github.com/xxSURIxx/prometheus/assets/143709408/fd558bff-8749-433b-9685-b9f684456f7b)
 
